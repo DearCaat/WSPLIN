@@ -4,7 +4,7 @@ pytorch implementation of [Weakly Supervised Patch Label Inference Networks for 
 For more details of this task, See [Pavement Distress Classification](https://github.com/DearCaat/Pavement-Distress-Classification).
 
 ## Usage
-### Crack500
+### Crack500-PDD
 
 #### Train IOPLIN
 
